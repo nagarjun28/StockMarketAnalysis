@@ -8,7 +8,6 @@ import seaborn as sns
 # For data retrival
 from pandas_datareader import data, wb
 from datetime import datetime
-import MonteCarlo as mt
 sns.set_style('whitegrid')
 # Let us consider the stocks for various tech gaints
 tech_list = ['AAPL', 'GOOG', 'MSFT', 'AMZN','C']
