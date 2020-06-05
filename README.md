@@ -10,3 +10,7 @@ We'll be answering the following questions along the way:
 4.) What was the correlation between different stocks' daily returns?\
 5.) How much value do we put at risk by investing in a particular stock?\
 6.) How can we attempt to predict future stock behavior?
+
+The end goal of this is to understand the risk and invest in particular stock for 5 different considered tech gains. To abtain the final graphs for investment using mante carlo method.
+
+![alt text](https://github.com/nagarjun28/StockMarketAnalysis/blob/master/Figure_1.png)
